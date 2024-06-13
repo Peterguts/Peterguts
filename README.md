@@ -10,11 +10,11 @@ A passionate web developer from Guatemala
 - 🔭  I’m currently learning **Laravel**
 - 👯  I’m looking to collaborate on **Space X**
 - 🤝  I’m looking for help with **Elon Musk**
-- 💬  Ask me about **Laravel, C#, .NET, Python, Java**
-- 📫  How to reach me **javieercajas908@gmail.com**
+- 💬  Ask me about **C#, .NET, Python, Java, Laravel**
+- 📫  How to reach me **pedrocelabeta@gmail.com**
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/javier-cajas-3443025a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-pablo-celada-b13603286)
 
 ## Languages and Tools:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
