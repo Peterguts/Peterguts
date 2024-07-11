@@ -7,9 +7,6 @@ A passionate web developer from Guatemala
 ## About Me
 
 - 🌍  I'm based in Quetzaltenango, Guatemala
-- 🔭  I’m currently learning **Laravel**
-- 👯  I’m looking to collaborate on **Space X**
-- 🤝  I’m looking for help with **Elon Musk**
 - 💬  Ask me about **C#, .NET, Python, Java, Laravel**
 - 📫  How to reach me **pedrocelabeta@gmail.com**
 
